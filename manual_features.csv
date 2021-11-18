@@ -1,0 +1,16 @@
+Feature,Description
+average_bytes_function,Average size in bytes of a function
+average_basic_blocks,Average number of basic blocks with respect to functions
+average_cyclomatic_complexity,Average cyclomatic complexity with respect to functions
+average_location,Average lines of code with respect tofunctions
+branch_instruction,Number of branch instructions
+bytes_function,Total size in bytes of the functions
+call_instructions,Numberof call instructions
+function_location,Percentage of instructions belongingto functions
+indirect_branch_instruction,Number of indirect branch instructions
+max_basic_blocks,Maximum number of basic blocks
+max_cyclomatic_complexity,Max cyclomatic complexity
+num_funcs,Number of functions detected
+percent_load_covered,Percentage of covered load segment
+percent_text_covered,Percentage of covered text section
+syscall_instructions,Number of syscall instructions
