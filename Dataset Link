@@ -1,0 +1,7 @@
+Unfortunately, the restriced sharing policies installed by the data providers prevents us from directly sharing the analyzed samples with the research community.
+However, the used dataset can be directly requested from this resource:
+
+Dataset: IoTPOT (IoT honeypot)
+Link: https://sec.ynu.codes/iot/available_datasets 
+(Dataset A and C)
+Request form: https://sec.ynu.codes/iot/requests/new?available_dataset_id=1
